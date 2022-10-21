@@ -53,10 +53,10 @@
   * > [Video 3 - Balloons, Bombs, & Booleans]()
   * > [Prueba 3]()
 * Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Tutorial 4 - Gameplay Mechanics]()
+  * > [Laboratorio 4 -  Basic Gameplay]()
+  * > [Desafío 4 - Soccer Scripting]()
+  * > [Prueba 4]()
 * Lección 5
   * > [Tutorial 5 - User Interface]()
   * > [Desafío 5 - Whack-a-Food]()
