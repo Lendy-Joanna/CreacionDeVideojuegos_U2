@@ -35,15 +35,15 @@
 ## Código Fuente
 
 * Lección 1
-  * > [Tutorial 1 - Player Control ](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_01)
-  * > [Laboratorio 1 - Project Design Document ](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion01_Laboratorio)
-  * > [Desafío 1 - Plane Programming ](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion01_Challenge)
+  * > [Tutorial 1 - Player Control ](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_01/tree/main/Assets)
+  * > [Laboratorio 1 - Project Design Document ](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion01_Laboratorio/blob/main/Project%20Design%20Doc%20%5BWORD%5D.docx)
+  * > [Desafío 1 - Plane Programming ](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion01_Challenge/tree/main/Assets)
   * > [Video 1 - Plane Programming](https://drive.google.com/file/d/16z2d3Z__fhAr7p-sL_D1CV7DDLmAEcFs/view?usp=sharing)
   * > [Prueba 1](https://drive.google.com/file/d/14UF3Qp9z7SMNfuHe-5bgfmdI15zQfAcy/view?usp=sharing)
 * Lección 2
-  * > [Tutorial 2 - Basic Gameplay](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_02)
-  * > [Laboratorio 2 - New Project with Primitives](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion02_Laboratorio)
-  * > [Desafío 2 - Play Fetch](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion02_Challenge)
+  * > [Tutorial 2 - Basic Gameplay](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_02/tree/main/Assets)
+  * > [Laboratorio 2 - New Project with Primitives](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion02_Laboratorio/tree/main/Assets)
+  * > [Desafío 2 - Play Fetch](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion02_Challenge/tree/main/Assets)
   * > [Video 2 - Play Fetch ](https://drive.google.com/file/d/1A85yH7OYyf_n-1GX8eW4C_kfRyp2cph8/view?usp=sharing)
   * > [Prueba 2](https://drive.google.com/file/d/1-NdpPAH1jztjnov5cZ-x7uwReykVcwF3/view?usp=sharing)
 * Lección 3
