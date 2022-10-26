@@ -49,19 +49,19 @@
 * Lección 3
   * > [Tutorial 3 - Sound and Effects](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_03)
   * > [Laboratorio 3 - Player Control](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion03_Laboratorio)
-  * > [Desafío 3 - Balloons, Bombs, & Booleans]()
-  * > [Video 3 - Balloons, Bombs, & Booleans]()
+  * > [Desafío 3 - Balloons, Bombs, & Booleans]
+  * > [Video 3 - Balloons, Bombs, & Booleans]
   * > [Prueba 3]()
 * Lección 4
-  * > [Tutorial 4 - Gameplay Mechanics]()
-  * > [Laboratorio 4 -  Basic Gameplay]()
-  * > [Desafío 4 - Soccer Scripting]()
-  * > [Prueba 4]()
+  * > [Tutorial 4 - Gameplay Mechanics]
+  * > [Laboratorio 4 -  Basic Gameplay]
+  * > [Desafío 4 - Soccer Scripting]
+  * > [Prueba 4]
 * Lección 5
-  * > [Tutorial 5 - User Interface]()
-  * > [Desafío 5 - Whack-a-Food]()
-  * > [Video 5 - Whack-a-Food]()
-  * > [Prueba 5]()
+  * > [Tutorial 5 - User Interface]
+  * > [Desafío 5 - Whack-a-Food]
+  * > [Video 5 - Whack-a-Food]
+  * > [Prueba 5]
 * VideoJuego
 
 ## Autor
