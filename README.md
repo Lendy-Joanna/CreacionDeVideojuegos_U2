@@ -47,7 +47,7 @@
   * > [Video 2 - Play Fetch ](https://drive.google.com/file/d/1A85yH7OYyf_n-1GX8eW4C_kfRyp2cph8/view?usp=sharing)
   * > [Prueba 2](https://drive.google.com/file/d/1-NdpPAH1jztjnov5cZ-x7uwReykVcwF3/view?usp=sharing)
 * Lección 3
-  * > [Tutorial 3 - Sound and Effects]()
+  * > [Tutorial 3 - Sound and Effects](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_03)
   * > [Laboratorio 3 - Player Control]()
   * > [Desafío 3 - Balloons, Bombs, & Booleans]()
   * > [Video 3 - Balloons, Bombs, & Booleans]()
