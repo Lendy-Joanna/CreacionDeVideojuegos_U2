@@ -54,7 +54,7 @@
   * > [Prueba 3](https://drive.google.com/file/d/1Yb4YFwQRTj2WedrJsmDK4qVpVijeSsPA/view?usp=sharing)
 * Lección 4
   * > [Tutorial 4 - Gameplay Mechanics]
-  * > [Laboratorio 4 -  Basic Gameplay]
+  * > [Laboratorio 4 -  Basic Gameplay](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion04_Laboratorio)
   * > [Desafío 4 - Soccer Scripting]
   * > [Prueba 4]
 * Lección 5
