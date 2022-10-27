@@ -56,9 +56,11 @@
   * > [Tutorial 4 - Gameplay Mechanics]
   * > [Laboratorio 4 -  Basic Gameplay](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion04_Laboratorio)
   * > [Desafío 4 - Soccer Scripting]
+  * > [Video 4 - Soccer Scripting]
   * > [Prueba 4]
 * Lección 5
   * > [Tutorial 5 - User Interface]
+  * > [Laboratorio 5 - ]
   * > [Desafío 5 - Whack-a-Food]
   * > [Video 5 - Whack-a-Food]
   * > [Prueba 5]
