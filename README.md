@@ -60,7 +60,7 @@
   * > [Prueba 4](https://drive.google.com/file/d/1JKVmr3qhkdXZOshUNhjYrjEUbwYB_dfu/view?usp=sharing)
 * Lección 5
   * > [Tutorial 5 - User Interface]
-  * > [Laboratorio 5 - ]
+  * > [Laboratorio 5 - Swap out yours Assets](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion05_Laboratorio)
   * > [Desafío 5 - Whack-a-Food]
   * > [Video 5 - Whack-a-Food]
   * > [Prueba 5](https://drive.google.com/file/d/1A6JmX-5kifPfBX4cpTCYK2PeKfQDF7GX/view?usp=sharing)
