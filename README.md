@@ -63,7 +63,7 @@
   * > [Laboratorio 5 - ]
   * > [Desafío 5 - Whack-a-Food]
   * > [Video 5 - Whack-a-Food]
-  * > [Prueba 5]
+  * > [Prueba 5](https://drive.google.com/file/d/1A6JmX-5kifPfBX4cpTCYK2PeKfQDF7GX/view?usp=sharing)
 * VideoJuego
 
 ## Autor
