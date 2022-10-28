@@ -53,7 +53,7 @@
   * > [Video 3 - Balloons, Bombs, & Booleans]
   * > [Prueba 3](https://drive.google.com/file/d/1Yb4YFwQRTj2WedrJsmDK4qVpVijeSsPA/view?usp=sharing)
 * Lección 4
-  * > [Tutorial 4 - Gameplay Mechanics]
+  * > [Tutorial 4 - Gameplay Mechanics](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_04)
   * > [Laboratorio 4 -  Basic Gameplay](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion04_Laboratorio)
   * > [Desafío 4 - Soccer Scripting]
   * > [Video 4 - Soccer Scripting]
