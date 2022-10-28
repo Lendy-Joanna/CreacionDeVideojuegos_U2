@@ -59,9 +59,9 @@
   * > [Video 4 - Soccer Scripting]
   * > [Prueba 4](https://drive.google.com/file/d/1JKVmr3qhkdXZOshUNhjYrjEUbwYB_dfu/view?usp=sharing)
 * Lección 5
-  * > [Tutorial 5 - User Interface]
+  * > [Tutorial 5 - User Interface](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_05)
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion05_Laboratorio)
-  * > [Desafío 5 - Whack-a-Food]
+  * > [Desafío 5 - Whack-a-Food](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion05_Challenge)
   * > [Video 5 - Whack-a-Food]
   * > [Prueba 5](https://drive.google.com/file/d/1A6JmX-5kifPfBX4cpTCYK2PeKfQDF7GX/view?usp=sharing)
 * VideoJuego
