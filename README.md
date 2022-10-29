@@ -50,7 +50,7 @@
   * > [Tutorial 3 - Sound and Effects](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_03)
   * > [Laboratorio 3 - Player Control](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion03_Laboratorio)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion03_Challenge)
-  * > [Video 3 - Balloons, Bombs, & Booleans]
+  * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1p5aiuiI6pme0l4bUauBKklwQrokv92d_/view?usp=share_link)
   * > [Prueba 3](https://drive.google.com/file/d/1Yb4YFwQRTj2WedrJsmDK4qVpVijeSsPA/view?usp=sharing)
 * Lección 4
   * > [Tutorial 4 - Gameplay Mechanics](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_04)
