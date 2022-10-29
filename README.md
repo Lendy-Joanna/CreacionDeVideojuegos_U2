@@ -56,13 +56,13 @@
   * > [Tutorial 4 - Gameplay Mechanics](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_04)
   * > [Laboratorio 4 -  Basic Gameplay](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion04_Laboratorio)
   * > [Desafío 4 - Soccer Scripting](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion04_Challenge)
-  * > [Video 4 - Soccer Scripting]
+  * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/1_Ii207WKm8nFv7OuNES6CP3kPR4xiuPr/view?usp=share_link)
   * > [Prueba 4](https://drive.google.com/file/d/1JKVmr3qhkdXZOshUNhjYrjEUbwYB_dfu/view?usp=sharing)
 * Lección 5
   * > [Tutorial 5 - User Interface](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion_05)
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion05_Laboratorio)
   * > [Desafío 5 - Whack-a-Food](https://github.com/UTNG-Unity-GDGS2102-LJSR/Leccion05_Challenge)
-  * > [Video 5 - Whack-a-Food]
+  * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/11U3RtDW41ci-CZxp2vPf17Z5d32BvG5Y/view?usp=share_link)
   * > [Prueba 5](https://drive.google.com/file/d/1A6JmX-5kifPfBX4cpTCYK2PeKfQDF7GX/view?usp=sharing)
 * VideoJuego
 
