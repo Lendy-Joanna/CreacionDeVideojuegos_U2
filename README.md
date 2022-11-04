@@ -24,27 +24,40 @@
 
 ## Introducción
 
-- Nombre del proyecto: Alien al escape
-- Objetivo: 
-    El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve para que no lo atrapen y logre llegar hasta su nave espacial y escape de la   tierra.
-- Plataforma:
-    PC Windows
-- Género:
-  Aventura, escape
-- Clasificación:
-  Clasificación B, 3D. 
-- Personajes:
-  Alienigena (Jugador, Nivel 1)
-  Nave espacial (Jugador, Nivel 2)
-  Agentes de la CIA(Enemigos, Nivel 1)
-  Aviones (Enemigos, Nivel 2)
+### Nombre del proyecto
+- Alien al escape
+### Objetivo: 
+ El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve para que no lo atrapen y logre llegar hasta su nave espacial y escape de la   tierra.
+### Plataforma: 
+- PC Windows
+### Género:
+- Aventura, escape
+### Clasificación:
+- Clasificación B, 3D. 
+### Personajes:
+#### - Alienigena (Jugador, Nivel 1)
+#### - Nave espacial (Jugador, Nivel 2)
+#### - Carros de la CIA (Enemigos, Nivel 1)
+#### - Aviones (Enemigos, Nivel 2)
 
-- Escenario: Ciudad (Nivel 1), Cielo (Nivel 2)
-- Historia: Un Alienígena que había sido capturado por la CIA ha logrado escapar de sus instalaciones sin embargo, deberá lograr llegar hasta donde tiene su nave      espacial escondida para escapar de la Tierra, mientras hace todo esto varios enemigos irán apareciendo con el propósito de matarlo y así evitar que escape.
-Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abran nuevos enemigos más peligrosos que los anteriores  acechando. 
-- Personajes: Alienigena (Jugador, Nivel 1), Nave espacial (Jugador, Nivel 2), Agentes de la CIA(Enemigos, Nivel 1), Aviones (Enemigos, Nivel 2)
-- Reglas de Juego: Cada vez que choque con un enemigo pierde una vida (Nivel 1), Cada vez que choque con un avión pierde una vida (Nivel 2), Si pierde las 3 vidas  pierde el juego.
+### Escenario 
+- Ciudad (Nivel 1)
+- Cielo (Nivel 2)
 
+### Historia
+- Un Alienígena que había sido capturado por la CIA ha logrado escapar de sus instalaciones sin embargo, deberá lograr llegar hasta donde tiene su nave espacial escondida para escapar de la Tierra, mientras hace todo esto varios enemigos irán apareciendo con el propósito de matarlo y así evitar que escape.
+Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abran nuevos enemigos más peligrosos que los anteriores atacandolo. 
+
+### Reglas de Juego
+- Cada vez que choque con un enemigo pierde una vida (Nivel 1)
+- Cada vez que choque con un avión pierde una vida (Nivel 2)
+- Si pierde las 3 vidas  pierde el juego.
+
+### Bosquejo (Nivel 1)
+![image](https://user-images.githubusercontent.com/80369054/200085047-cc5f257e-e138-475a-b46a-e349518efa33.png)
+
+### Bosquejo (Nivel 2)
+![image](https://user-images.githubusercontent.com/80369054/200085082-7b7151b2-8820-40a4-8257-1248112bca0f.png)
 
 
 ## Código Fuente
@@ -81,7 +94,7 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
   * > [Prueba 5](https://drive.google.com/file/d/1A6JmX-5kifPfBX4cpTCYK2PeKfQDF7GX/view?usp=sharing)
 * VideoJuego
 
-## Autor
+## Autores
 Sandoval Rodríguez Lendy Joanna
 
 ## Copyright
