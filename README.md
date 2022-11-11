@@ -48,6 +48,12 @@
 - Un Alienígena que había sido capturado por la CIA ha logrado escapar de sus instalaciones sin embargo, deberá lograr llegar hasta donde tiene su nave espacial escondida para escapar de la Tierra, mientras hace todo esto varios enemigos irán apareciendo con el propósito de matarlo y así evitar que escape.
 Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abran nuevos enemigos más peligrosos que los anteriores atacandolo. 
 
+### Musicalización
+- Sonido de fondo durante el juego.
+- Sonido de timbre cuando el jugador tome una estrella (la estrella sumará puntos).
+- Sonido de disparo cuando atrapen al jugador.
+- Sonido de muerte cuando el jugador pierda.
+
 ### Reglas de Juego
 - Cada vez que choque con un enemigo pierde una vida (Nivel 1)
 - Cada vez que choque con un avión pierde una vida (Nivel 2)
