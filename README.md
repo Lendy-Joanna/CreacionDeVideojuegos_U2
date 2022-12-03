@@ -105,7 +105,8 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
 ![image](https://user-images.githubusercontent.com/80369054/205413189-417abfa3-9284-46df-8804-7307365b9739.png)
 
 ## Autores
-Sandoval Rodríguez Lendy Joanna
+#### Rosas Castillo Gabriela
+#### Sandoval Rodríguez Lendy Joanna
 
 ## Copyright
 Derechos Reservados 2022
