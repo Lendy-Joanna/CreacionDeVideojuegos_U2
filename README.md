@@ -100,6 +100,7 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
   * > [Prueba 5](https://drive.google.com/file/d/1A6JmX-5kifPfBX4cpTCYK2PeKfQDF7GX/view?usp=sharing)
 * VideoJuego
   * >[Alien al escape](https://mega.nz/file/9P1DlR5I#ToSlSZC9aN0W1KqpHi0r1f_nq6Y45sc4XByhIczORI0)
+  * >[Despliegue Alien al escape](https://joann-rs.itch.io/alien)
 
 ## Planificación
 ![image](https://user-images.githubusercontent.com/80369054/205413189-417abfa3-9284-46df-8804-7307365b9739.png)
